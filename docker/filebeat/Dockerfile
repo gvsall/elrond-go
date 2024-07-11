@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 
 ENV FILEBEAT_VERSION 6.4.2
 
